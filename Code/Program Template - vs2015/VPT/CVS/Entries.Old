@@ -1,0 +1,53 @@
+D/App////
+D/AppGenerator////
+D/Debug////
+D/Release////
+D/res////
+D/Tools////
+/CaptureSelect.cpp/1.1/Sat Mar 15 05:58:02 2008//
+/CaptureSelect.h/1.1/Sat Mar 15 05:59:03 2008//
+/ChildFrm.cpp/1.1/Tue Apr  1 07:01:32 2008//
+/ChildFrm.h/1.1/Tue Apr  1 06:59:34 2008//
+/ConsoleView.cpp/1.1/Sun Mar 23 04:08:43 2008//
+/ConsoleView.h/1.1/Sun Mar 23 04:08:43 2008//
+/CustomSplitterWnd.cpp/1.1/Tue Apr  1 05:32:00 2008//
+/CustomSplitterWnd.h/1.1/Tue Mar 25 14:52:39 2008//
+/ImgParam.cpp/1.1/Sat Mar 15 05:31:23 2008//
+/ImgParam.h/1.1/Sat May 20 14:25:22 2006//
+/MainFrm.cpp/1.1/Tue Mar 25 08:10:05 2008//
+/MainFrm.h/1.1/Sat Mar 15 14:30:27 2008//
+/Processing.cpp/1.1/Tue Apr  1 07:46:08 2008//
+/Processing.h/1.1/Mon Mar 24 14:25:27 2008//
+/ReadMe.txt/1.1/Sat Mar 15 05:06:40 2008//
+/Tunnel.cpp/1.1/Tue Apr  1 06:47:54 2008//
+/Tunnel.h/1.1/Mon Mar 24 13:22:50 2008//
+/VPT.cpp/1.1/Tue Apr  1 05:17:15 2008//
+/VPT.h/1.1/Tue Apr  1 05:11:08 2008//
+/VPT.reg/1.1/Sat Mar 15 05:06:42 2008//
+/VPT.sln/1.1/Sat Apr  5 13:29:30 2008//
+/VPT.suo/1.1/Sat Apr  5 14:59:13 2008/-kbx/
+/VPT.vcproj/1.1/Sat Apr  5 14:53:34 2008//
+/VPTDoc.cpp/1.1/Tue Apr  1 06:42:59 2008//
+/VPTDoc.h/1.1/Tue Apr  1 06:47:54 2008//
+/VPTView.cpp/1.1/Tue Apr  1 06:39:51 2008//
+/VPTView.h/1.1/Mon Mar 24 13:36:28 2008//
+/VideoCtrlBar.cpp/1.1/Mon Mar 31 09:48:05 2008//
+/VideoCtrlBar.h/1.1/Sat Mar 29 06:01:37 2008//
+/VideoCtrlFrm.h/1.1/Mon Mar 31 14:38:15 2008//
+/resource.h/1.1/Tue Apr  1 05:10:20 2008//
+/resource.hm/1.1/Mon Mar 24 04:03:12 2008//
+/stdafx.cpp/1.1/Sat Mar 15 05:06:40 2008//
+/stdafx.h/1.1/Sat Mar 15 05:06:40 2008//
+/VideoCtrlFrm.cpp/1.2/Thu Nov 26 07:09:49 2009//
+/VideoCapture.cpp/1.2/Sat Nov  7 02:35:13 2009//
+/VideoCapture.h/1.2/Sat Nov  7 02:35:53 2009//
+/AviLoader.cpp/1.2/Sat Nov  7 02:29:55 2009//
+/AviLoader.h/1.2/Sat Nov  7 02:29:55 2009//
+/AviWriter.cpp/1.1/Mon Apr 21 09:27:35 2008//
+/AviWriter.h/1.1/Mon Apr 21 09:27:09 2008//
+/ImageLoader.cpp/1.2/Thu Jan 21 15:05:53 2010//
+/ImageLoader.h/1.2/Sat Nov 21 14:12:43 2009//
+/DSVideoGrabber.cpp/1.1/Thu Nov 26 07:36:37 2009//
+/DSVideoGrabber.h/1.1/Thu Nov 26 07:20:57 2009//
+/VPT.rc/1.2/Sun Jun 15 03:28:37 2008//
+/VPT.APS/1.2/Sun Jun 15 03:28:37 2008/-kbx/

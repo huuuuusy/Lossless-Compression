@@ -1,0 +1,4 @@
+// Microsoft Visual C++ generated Help ID include file.
+// Used by VPT.rc
+//
+#define HIDC_PLAY                       0x808403f3    // IDD_TRACKBAR

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VPT", "VPT.vcproj", "{3E1CDA72-31CE-4159-8730-065971E84E4C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A2EEA1C2-03FE-4333-B911-90FC766A0A24} = {A2EEA1C2-03FE-4333-B911-90FC766A0A24}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AppGenerator", "AppGenerator\AppGenerator.vcproj", "{B41A4DC0-9F07-4508-AFFC-1015581FC8D9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H264Codec", "..\H264Codec\H264Codec.vcproj", "{A2EEA1C2-03FE-4333-B911-90FC766A0A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1CDA72-31CE-4159-8730-065971E84E4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E1CDA72-31CE-4159-8730-065971E84E4C}.Debug|Win32.Build.0 = Debug|Win32
+		{3E1CDA72-31CE-4159-8730-065971E84E4C}.Release|Win32.ActiveCfg = Release|Win32
+		{3E1CDA72-31CE-4159-8730-065971E84E4C}.Release|Win32.Build.0 = Release|Win32
+		{B41A4DC0-9F07-4508-AFFC-1015581FC8D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B41A4DC0-9F07-4508-AFFC-1015581FC8D9}.Debug|Win32.Build.0 = Debug|Win32
+		{B41A4DC0-9F07-4508-AFFC-1015581FC8D9}.Release|Win32.ActiveCfg = Release|Win32
+		{B41A4DC0-9F07-4508-AFFC-1015581FC8D9}.Release|Win32.Build.0 = Release|Win32
+		{A2EEA1C2-03FE-4333-B911-90FC766A0A24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2EEA1C2-03FE-4333-B911-90FC766A0A24}.Debug|Win32.Build.0 = Debug|Win32
+		{A2EEA1C2-03FE-4333-B911-90FC766A0A24}.Release|Win32.ActiveCfg = Release|Win32
+		{A2EEA1C2-03FE-4333-B911-90FC766A0A24}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
